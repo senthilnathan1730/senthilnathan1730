@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
- <a href="https://www.flaticon.com/free-icon/portfolio_351456?term=portfolio&page=1&position=7&origin=tag&related_id=351456" height="30" width="40" > </a>
+<img src="![image](https://github.com/user-attachments/assets/2c52105a-4805-453d-b0dd-58d8e3b8da65)">
  
 <a href="https://twitter.com/senthil1730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senthil1730" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senthil nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthil nathan" height="30" width="40" /></a>
