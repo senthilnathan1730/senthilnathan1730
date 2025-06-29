@@ -23,40 +23,31 @@
 
 ## 🌐 Connect with Me
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://senthil.zeal.ninja/" title="Portfolio">
-        <img src="https://cdn-icons-png.flaticon.com/128/281/281089.png" alt="Portfolio" width="40" />
-        <br><strong>Portfolio</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:gonebetaofficial@gmail.com" title="Email">
-        <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email" width="40" />
-        <br><strong>Email</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://twitter.com/senthil1730" title="Twitter">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" />
-        <br><strong>Twitter</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/senthil-nathan" title="LinkedIn">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
-        <br><strong>LinkedIn</strong>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/gone_beta_" title="Instagram">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
-        <br><strong>Instagram</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://senthil.zeal.ninja/" title="Portfolio">
+    <img src="https://cdn-icons-png.flaticon.com/128/281/281089.png" alt="Portfolio" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gonebetaofficial@gmail.com" title="Email">
+    <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/senthil1730" title="Twitter">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/senthil-nathan" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/gone_beta_" title="Instagram">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Portfolio</b> &nbsp;&nbsp; <b>Email</b> &nbsp;&nbsp; <b>Twitter</b> &nbsp;&nbsp; <b>LinkedIn</b> &nbsp;&nbsp; <b>Instagram</b>
+</p>
 
 
 ## 💼 Wanna Know My Professional Skills ? Let's Dive into it.
