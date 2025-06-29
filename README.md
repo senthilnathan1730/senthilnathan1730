@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" height="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 
 <section id="about" style="background-color: #0f172a; color: #f1f5f9; padding: 2rem; border-radius: 1rem; max-width: 800px; margin: auto;">
-  <h2 style="color: #22c55e; font-size: 2rem; font-weight: bold; margin-bottom: 1rem;">👨‍💻 About Me</h2>
+  <h2 style="color: #22c55e; font-size: 2rem; font-weight: bold; margin-bottom: 1rem;">👨‍💻 Who Am I ?</h2>
   <p style="line-height: 1.8;">
     I’m a final-year <strong>Cyber Forensics</strong> student at <strong>MGR University</strong>, passionate about 
     <span style="color: #38bdf8;">cybersecurity</span>, <span style="color: #fbbf24;">ethical hacking</span>, and 
