@@ -20,36 +20,36 @@
   </p>
 </section>
 
-<h3 align="left">Connect with me:</h3>
+
 
  
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
 <table>
   <tr>
     <td align="center">
       <a href="https://www.freepik.com" title="Freepik">
-        <img src="https://cdn-icons-png.flaticon.com/128/281/281089.png" alt="Freepik" width="40" height="40" />
+        <img src="https://cdn-icons-png.flaticon.com/128/281/281089.png" alt="Freepik" width="40" />
+        <br><strong>Freepik</strong>
       </a>
-      <br/>Freepik
     </td>
     <td align="center">
-      <a href="https://twitter.com/senthil1730" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
+      <a href="https://twitter.com/senthil1730" title="Twitter">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" />
+        <br><strong>Twitter</strong>
       </a>
-      <br/>Twitter
     </td>
     <td align="center">
-      <a href="https://linkedin.com/in/senthil nathan" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+      <a href="https://linkedin.com/in/senthil-nathan" title="LinkedIn">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+        <br><strong>LinkedIn</strong>
       </a>
-      <br/>LinkedIn
     </td>
     <td align="center">
-      <a href="https://instagram.com/gone_beta_" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+      <a href="https://instagram.com/gone_beta_" title="Instagram">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
+        <br><strong>Instagram</strong>
       </a>
-      <br/>Instagram
     </td>
   </tr>
 </table>
