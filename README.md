@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<img src="https://github.com/user-attachments/assets/2c52105a-4805-453d-b0dd-58d8e3b8da65" alt="Profile Banner" style="width:40; max-height:40; object-fit:cover; border-radius:10px;" />
+<div> Icons made by <a href="https://www.freepik.com" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
  
 <a href="https://twitter.com/senthil1730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senthil1730" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senthil nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthil nathan" height="30" width="40" /></a>
