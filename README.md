@@ -13,7 +13,7 @@
     <span style="color: #c084fc;">Linux systems</span>. I enjoy exploring how technology works behind the scenes—and more importantly, how to protect it.
   </p>
   <p style="margin-top: 1rem; line-height: 1.8;">
-    I’ve built <a href="https://yourwebsite.com" target="_blank" style="color: #4ade80; text-decoration: underline;"><strong>SunduVault</strong></a>, my personal cybersecurity hub, where I showcase tools, projects, and hands-on experiments — from file encryption apps to secure CLI utilities.
+    I’ve built <a href="https://yourwebsite.com" target="_blank" style="color: #4ade80; text-decoration: underline;"><strong>SunduVault</strong></a>, my personal cybersecurity hub, where I showcase tools, projects, and hands-on experiments.
   </p>
   <p style="margin-top: 1rem; font-style: italic;">
     🔐 Security is the foundation of digital trust, and I’m excited to contribute to building a safer digital world.
@@ -22,6 +22,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ 
+ <a href="https://www.flaticon.com/free-icon/portfolio_351456?term=portfolio&page=1&position=7&origin=tag&related_id=351456" height="30" width="40" > </a>
+ 
 <a href="https://twitter.com/senthil1730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senthil1730" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senthil nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthil nathan" height="30" width="40" /></a>
 <a href="https://instagram.com/gone_beta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gone_beta_" height="30" width="40" /></a>
