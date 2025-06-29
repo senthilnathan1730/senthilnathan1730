@@ -1,7 +1,6 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1000/0*zFgfL0o0olAzHtFM.png)](https://senthil.zeal.ninja)
 <h1 align="center">Hi 👋, I'm Senthil Nathan</h1>
 <h3 align="center">A passionate Penetration Tester / Cybersecurity Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
+<img align="right" alt="coding" width="400" height="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senthilnathan1730&label=Profile%20views&color=0e75b6&style=flat" alt="senthilnathan1730" /> </p>
 
