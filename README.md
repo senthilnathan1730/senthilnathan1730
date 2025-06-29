@@ -5,16 +5,32 @@
 
 <img align="right" alt="coding" width="400" height="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 
+<section id="about" style="background-color: #0f172a; color: white; padding: 40px; font-family: Arial, sans-serif;">
+  <div style="max-width: 800px; margin: auto; text-align: center;">
+    <h2 style="font-size: 36px; color: #10b981;">👨‍💻 Who Am I?</h2>
+    <p style="font-size: 18px; margin-top: 20px; line-height: 1.6;">
+      Hello! I'm <strong style="color: #38bdf8;">Senthil Nathan</strong>, a passionate <span style="color: #facc15;">Cybersecurity Enthusiast</span> and <span style="color: #f87171;">Python Developer</span> from <strong>Watrap, Tamil Nadu, India</strong>.
+    </p>
+    <p style="font-size: 18px; margin-top: 20px; line-height: 1.6;">
+      I'm currently pursuing my Master's in <strong>Cyber Forensics</strong> at <em>M.G.R. University</em> in Chennai, after completing my BCA from <em>Ayya Nadar Janaki Ammal College</em>, Sivakasi.
+    </p>
+    <p style="font-size: 18px; margin-top: 20px; line-height: 1.6;">
+      I build secure applications and tools like <strong style="color: #4ade80;">SunduVault</strong> and <strong style="color: #f472b6;">Santhi Cabs</strong>. I specialize in file encryption, web-based tools, and Linux automation.
+    </p>
+    <p style="font-size: 18px; margin-top: 20px; line-height: 1.6;">
+      <strong>I love working on:</strong><br>
+      🔐 Ethical Hacking & Forensics<br>
+      💻 Python CLI & Flask Apps<br>
+      🐧 Linux-Based Security Tools<br>
+      🌍 Secure Web Development
+    </p>
+    <p style="margin-top: 30px;">
+      📫 <a href="mailto:youremail@example.com" style="color: #60a5fa;">Get in touch</a> or visit my 
+      <a href="https://github.com/senthil-nathan" style="color: #38bdf8;">GitHub</a>
+    </p>
+  </div>
+</section>
 
-
-<h2>Who Am I ?</h2>
-- 🌱 I’m currently learning **Cybersecurity**
-
-- 👨‍💻 All of my projects are available at [https://senthil.zeal.ninja/](https://senthil.zeal.ninja/)
-
-- 💬 Ask me about **python, Flask**
-
-- 📫 How to reach me **senthilnathans1730@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
