@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senthilnathan1730&label=Profile%20views&color=0e75b6&style=flat" alt="senthilnathan1730" /> </p>
 
-<p align="left"> <a href="https://twitter.com/senthil1730" target="blank"><img src="https://img.shields.io/twitter/follow/senthil1730?logo=twitter&style=for-the-badge" alt="senthil1730" /></a> </p>
 
+<h2>Who Am I ?</h2>
 - 🌱 I’m currently learning **Cybersecurity**
 
 - 👨‍💻 All of my projects are available at [https://senthil.zeal.ninja/](https://senthil.zeal.ninja/)
