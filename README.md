@@ -5,32 +5,20 @@
 
 <img align="right" alt="coding" width="400" height="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 
-<section id="about" style="background-color: #0f172a; color: white; padding: 40px; font-family: Arial, sans-serif;">
-  <div style="max-width: 800px; margin: auto; text-align: center;">
-    <h2 style="font-size: 36px; color: #10b981;">👨‍💻 Who Am I?</h2>
-    <p style="font-size: 18px; margin-top: 20px; line-height: 1.6;">
-      Hello! I'm <strong style="color: #38bdf8;">Senthil Nathan</strong>, a passionate <span style="color: #facc15;">Cybersecurity Enthusiast</span> and <span style="color: #f87171;">Python Developer</span> from <strong>Watrap, Tamil Nadu, India</strong>.
-    </p>
-    <p style="font-size: 18px; margin-top: 20px; line-height: 1.6;">
-      I'm currently pursuing my Master's in <strong>Cyber Forensics</strong> at <em>M.G.R. University</em> in Chennai, after completing my BCA from <em>Ayya Nadar Janaki Ammal College</em>, Sivakasi.
-    </p>
-    <p style="font-size: 18px; margin-top: 20px; line-height: 1.6;">
-      I build secure applications and tools like <strong style="color: #4ade80;">SunduVault</strong> and <strong style="color: #f472b6;">Santhi Cabs</strong>. I specialize in file encryption, web-based tools, and Linux automation.
-    </p>
-    <p style="font-size: 18px; margin-top: 20px; line-height: 1.6;">
-      <strong>I love working on:</strong><br>
-      🔐 Ethical Hacking & Forensics<br>
-      💻 Python CLI & Flask Apps<br>
-      🐧 Linux-Based Security Tools<br>
-      🌍 Secure Web Development
-    </p>
-    <p style="margin-top: 30px;">
-      📫 <a href="mailto:youremail@example.com" style="color: #60a5fa;">Get in touch</a> or visit my 
-      <a href="https://github.com/senthil-nathan" style="color: #38bdf8;">GitHub</a>
-    </p>
-  </div>
+<section id="about" style="background-color: #0f172a; color: #f1f5f9; padding: 2rem; border-radius: 1rem; max-width: 800px; margin: auto;">
+  <h2 style="color: #22c55e; font-size: 2rem; font-weight: bold; margin-bottom: 1rem;">👨‍💻 About Me</h2>
+  <p style="line-height: 1.8;">
+    I’m a final-year <strong>Cyber Forensics</strong> student at <strong>MGR University</strong>, passionate about 
+    <span style="color: #38bdf8;">cybersecurity</span>, <span style="color: #fbbf24;">ethical hacking</span>, and 
+    <span style="color: #c084fc;">Linux systems</span>. I enjoy exploring how technology works behind the scenes—and more importantly, how to protect it.
+  </p>
+  <p style="margin-top: 1rem; line-height: 1.8;">
+    I’ve built <a href="https://yourwebsite.com" target="_blank" style="color: #4ade80; text-decoration: underline;"><strong>SunduVault</strong></a>, my personal cybersecurity hub, where I showcase tools, projects, and hands-on experiments — from file encryption apps to secure CLI utilities.
+  </p>
+  <p style="margin-top: 1rem; font-style: italic;">
+    🔐 Security is the foundation of digital trust, and I’m excited to contribute to building a safer digital world.
+  </p>
 </section>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
