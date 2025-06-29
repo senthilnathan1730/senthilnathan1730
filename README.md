@@ -23,17 +23,36 @@
 <h3 align="left">Connect with me:</h3>
 
  
-<a href="https://www.freepik.com" title="Freepik">
-  <img src="https://cdn-icons-png.flaticon.com/128/281/281089.png" alt="Freepik Icon" width="32" height="32" />
-</a>
+## 🌐 Connect with me
 
- 
-<a href="https://twitter.com/senthil1730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senthil1730" height="30" width="40" /></a><br>
-
-
-<a href="https://linkedin.com/in/senthil nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthil nathan" height="30" width="40" /></a><b><br>
-<a href="https://instagram.com/gone_beta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gone_beta_" height="30" width="40" /></a>
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.freepik.com" title="Freepik">
+        <img src="https://cdn-icons-png.flaticon.com/128/281/281089.png" alt="Freepik" width="40" height="40" />
+      </a>
+      <br/>Freepik
+    </td>
+    <td align="center">
+      <a href="https://twitter.com/senthil1730" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
+      </a>
+      <br/>Twitter
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/senthil nathan" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+      </a>
+      <br/>LinkedIn
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/gone_beta_" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+      </a>
+      <br/>Instagram
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
