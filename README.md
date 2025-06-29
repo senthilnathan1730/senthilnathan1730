@@ -25,18 +25,20 @@
  
 ## 🌐 Connect with Me
 
+## 🌐 Connect with Me
+
 <table>
   <tr>
     <td align="center">
-      <a href="https://senthil.zeal.ninja/" title="Freepik">
-        <img src="https://cdn-icons-png.flaticon.com/128/281/281089.png" alt="Freepik" width="40" />
+      <a href="https://senthil.zeal.ninja/" title="Portfolio">
+        <img src="https://cdn-icons-png.flaticon.com/128/281/281089.png" alt="Portfolio" width="40" />
         <br><strong>Portfolio</strong>
       </a>
     </td>
-     <td align="center">
-      <a href="https://instagram.com/gone_beta_" title="Instagram">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
-        <br><strong>Mail</strong>
+    <td align="center">
+      <a href="mailto:gonebetaofficial@gmail.com" title="Email">
+        <img src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email" width="40" />
+        <br><strong>Email</strong>
       </a>
     </td>
     <td align="center">
@@ -57,9 +59,9 @@
         <br><strong>Instagram</strong>
       </a>
     </td>
-    
   </tr>
 </table>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
