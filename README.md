@@ -23,7 +23,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<div> Icons made by <a href="https://www.freepik.com" title="Freepik"> Freepik </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
+<a href="https://www.freepik.com" title="Freepik">
+  <img src="https://cdn-icons-png.flaticon.com/128/281/281089.png" alt="Freepik Icon" width="32" height="32" />
+</a>
+
  
 <a href="https://twitter.com/senthil1730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senthil1730" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/senthil nathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthil nathan" height="30" width="40" /></a>
