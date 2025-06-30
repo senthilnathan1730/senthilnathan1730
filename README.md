@@ -75,7 +75,7 @@
     🔗 <a href="https://github.com/senthilnathan1730/securefile-encryption">
       <img src="https://img.shields.io/badge/📁 Source--Code-blue?style=flat-square">
     </a>
-       <a href="https://sunducab.zeal.ninja">
+       <a href="https://file.zeal.ninja">
       <img src="https://img.shields.io/badge/🔗 Live--Demo-green?style=flat-square">
     </a>
   </li>
