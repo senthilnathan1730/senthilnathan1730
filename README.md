@@ -100,13 +100,6 @@
   </li>
   <br>
 
-  <li>🔑 <strong>SecurePass – Password Strength Checker & Generator</strong><br>
-    Checks password strength and generates secure, random passwords.<br>
-    🔗 <a href="https://github.com/senthilnathan1730/securepass-password-checker">
-      <img src="https://img.shields.io/badge/📁 Source--Code-blue?style=flat-square">
-      
-    
-  </li>
 </ul>
 
 <h2>🤝 Collaboration</h2>
