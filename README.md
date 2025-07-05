@@ -83,7 +83,7 @@
 
   <li>🚖 <strong>Sundi Cabs – Online Cab Booking System</strong><br>
     Full-stack responsive platform for cab booking, fare calculator & user dashboard.<br>
-    🔗 <a href="https://github.com/senthilnathan1730/sundi-cabs">
+    🔗 <a href="https://github.com/senthilnathan1730/Smart_online_cab_booking">
       <img src="https://img.shields.io/badge/📁 Source--Code-blue?style=flat-square">
     </a>
      <a href="https://sunducab.zeal.ninja">
