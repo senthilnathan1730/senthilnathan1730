@@ -92,12 +92,6 @@
   </li>
   <br>
 
-  <li>🔐 <strong>LOCKBOX – Secure Python-based Password Manager</strong><br>
-    Web & CLI tool using AES-256 encryption to store passwords securely.<br>
-    🔗 <a href="https://github.com/senthilnathan1730/lockbox-password-manager">
-      <img src="https://img.shields.io/badge/📁 Source--Code-blue?style=flat-square">
-    </a>
-  </li>
   <br>
 
 </ul>
