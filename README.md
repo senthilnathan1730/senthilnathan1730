@@ -64,7 +64,7 @@
 <ul>
   <li>🎓 <strong>RFID-Based Attendance System (with NodeMCU)</strong><br>
     Developed a smart attendance system using NodeMCU and RFID technology.<br>
-    🔗 <a href="https://github.com/senthilnathan1730/rfid-attendance-system">
+    🔗 <a href="https://github.com/senthilnathan1730/RFID_attendance_system">
       <img src="https://img.shields.io/badge/📁 Source--Code-blue?style=flat-square">
     </a>
   </li>
