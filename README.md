@@ -72,7 +72,7 @@
 
   <li>🛡️ <strong>SecureFile – Encryption & Decryption System</strong><br>
     A secure file encryption/decryption platform for documents, images & videos using AES.<br>
-    🔗 <a href="https://github.com/senthilnathan1730/securefile-encryption">
+    🔗 <a href="https://github.com/senthilnathan1730/Secure_file/blob/main/README.md">
       <img src="https://img.shields.io/badge/📁 Source--Code-blue?style=flat-square">
     </a>
        <a href="https://file.zeal.ninja">
