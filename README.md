@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/senthil-nathan" title="LinkedIn">
+  <a href="https://linkedin.com/in/senthilnathan17092003" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -81,7 +81,7 @@
   </li>
   <br>
 
-  <li>🚖 <strong>Sundi Cabs – Online Cab Booking System</strong><br>
+  <li>🚖 <strong>Sundu Cabs – Online Cab Booking System</strong><br>
     Full-stack responsive platform for cab booking, fare calculator & user dashboard.<br>
     🔗 <a href="https://github.com/senthilnathan1730/Smart_online_cab_booking">
       <img src="https://img.shields.io/badge/📁 Source--Code-blue?style=flat-square">
