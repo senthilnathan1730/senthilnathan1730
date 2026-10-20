@@ -16,9 +16,11 @@
   </a>
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=senthilnathan1730&label=Profile%20Views&color=0e7490&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=senthilnathan1730&label=PROFILE+VIEWS&color=0e7490&style=for-the-badge" alt="Profile Views" />
 </p>
+
 
 ## 👨‍💻 About Me
 
